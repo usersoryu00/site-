@@ -18,6 +18,7 @@ input {
   font-weight: inherit;
   font-family: inherit;
 }
+document.querySelector('input[type=tel]');
 
 h1 {
   font-family: 'Montserrat', sans-serif;
